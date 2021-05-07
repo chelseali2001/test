@@ -2,8 +2,20 @@ body {
     text-align: center;
 }
 
+.text {
+  font-size: 50px;
+}
+
+.action-button {
+  font-size: 25px;
+}
+
 #surprise {
     display: none;
+}
+
+.message {
+  font-size: 50px;
 }
 
 .snowflake {
